@@ -148,7 +148,7 @@ svg {
   height: 100%;
 }
 #pocket {
-  width: 80px;
+  width: 150px;
 }
 #bgpocket {
   position: absolute;
